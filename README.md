@@ -9,10 +9,6 @@ x_coming_sssoon_page/
 │   ├── bootstrap.css
 │   ├── coming-sssoon-demo.css
 │   └── coming-sssoon.css
-├── demo-cream-app.html
-├── demo-image-background.html
-├── demo-restaurant.html
-├── demo-video-background.html
 ├── images/
 ├── index.html
 └── js
